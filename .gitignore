@@ -20,3 +20,6 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 .history/*
+
+dev.db
+dev.db-journal
